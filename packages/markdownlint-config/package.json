@@ -1,0 +1,13 @@
+{
+  "name": "markdownlint",
+  "version": "0.0.1",
+  "description": "> TODO: description",
+  "main": "index.json",
+  "scripts": {
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1539107462/encode-lint/spec.git"
+  }
+}

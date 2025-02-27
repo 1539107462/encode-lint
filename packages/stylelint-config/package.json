@@ -1,0 +1,25 @@
+{
+  "name": "stylelint-config",
+  "version": "0.0.1",
+  "description": "编码规范",
+  "author": "zbb <1539107462@qq.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "peerDependencies": {
+    "stylelint": ">=8.3.0",
+    "stylelint-scss": ">=2.0.0"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0",
+    "stylelint": "^14.3.0",
+    "stylelint-scss": "^4.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1539107462/encode-lint/spec.git"
+  }
+}
