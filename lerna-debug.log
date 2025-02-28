@@ -1,5 +1,5 @@
-45 error Error: Command failed with exit code 1: git commit -m chore:publish v0.0.1
-45 error ⧗   input: chore:publish v0.0.1
+45 error Error: Command failed with exit code 1: git commit -m chore:publish v0.0.2
+45 error ⧗   input: chore:publish v0.0.2
 45 error ✖   subject may not be empty [subject-empty]
 45 error ✖   type may not be empty [type-empty]
 45 error
