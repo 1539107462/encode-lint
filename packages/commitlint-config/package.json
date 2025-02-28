@@ -12,5 +12,6 @@
     "type": "git",
     "url": "git+https://github.com/1539107462/encode-lint.git"
   },
-  "scripts": {}
+  "scripts": {},
+  "gitHead": "c090dbb80622d01ddb90de514ea5a3a0d1face9d"
 }
