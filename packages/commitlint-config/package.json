@@ -1,6 +1,6 @@
 {
   "name": "commitlint-config",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "> TODO: description",
   "author": "zbb <1539107462@qq.com>",
   "main": "index.js",
