@@ -4,11 +4,11 @@ export default defineConfig4CustomTheme({
 	locales: {
 		'/': {
 			lang: 'zh-CN',
-			title: '印客学院',
+			title: 'zbb',
 			description: '前端编码规范工程化',
 		},
 	},
-	base: '/fe-spec/',
+	base: '/spec/',
 	themeConfig: {
 		nav: [
 			{ text: '首页', link: '/index.md' },
@@ -87,7 +87,7 @@ export default defineConfig4CustomTheme({
 
 		extendFrontmatter: {
 			author: {
-				name: '澄怀',
+				name: 'zbb',
 				link: 'https://github.com/encode-studio-fe/fe-sepc',
 			},
 		},
