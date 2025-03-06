@@ -1,5 +1,5 @@
 {
-  "name": "commitlint-config",
+  "name": "commitlint-config-z",
   "version": "0.0.6",
   "description": "> TODO: description",
   "author": "zbb <1539107462@qq.com>",
@@ -13,5 +13,5 @@
     "url": "git+https://github.com/1539107462/encode-lint.git"
   },
   "scripts": {},
-  "gitHead": "0b2b39fc56aed9d7814e00977835697891f1ddb0"
+  "gitHead": "77f85f2f631b2d507f826d61b3e816a59a491096"
 }
